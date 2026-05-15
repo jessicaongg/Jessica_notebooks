@@ -15,6 +15,8 @@ Differential abundance analysis
         ↙                     ↘
      Milo                  scCODA
                 ↓
+Differential Expression (DESeq2)
+                ↓
 TCR integration (Dandelion)
                 ↓
 Clonotype expansion analysis
