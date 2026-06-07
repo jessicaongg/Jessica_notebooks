@@ -79,7 +79,6 @@ scripts/        Reusable workflow scripts
 Results/        Analysis outputs and figures
 dandelion/      TCR repertoire workflows
 workflow/       Pipeline diagrams and workflow notes
-docs/           Methodology and project documentation
 environment/    Package and environment specifications
 ```
 
